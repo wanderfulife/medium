@@ -24,8 +24,11 @@ const Home: NextPage = () => {
         className="hidden md:inline-flex h-32 lg:h-full"
         src="https://accountabilitylab.org/wp-content/uploads/2020/03/Medium-logo.png" alt="" />
       </div>
+<<<<<<< HEAD
       
       {/* Posts */}
+=======
+>>>>>>> 625bd9c201b839f13ba01ef3ebf00331dc5019f4
     </div>
   );
 };
